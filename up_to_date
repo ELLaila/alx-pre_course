@@ -1,6 +1,1 @@
-The Git command used to update the "main" branch is:
-git pull origin master
-
-the Git command used to creat this file and write in it is:
 touch up_to_date
-vi up_to_date
